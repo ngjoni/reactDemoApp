@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "message": "Systemausfall im Serverraum #12",
+      "attention": true,
+      "tech": "Mike Schmidt",
+      "date": "2021-05-17T07:56:54.209Z",
+      "id": 1
+    },
+    {
+      "message": "Ein weiterer Eintrag",
+      "attention": false,
+      "tech": "Mike Schmidt",
+      "date": "2021-05-18T16:35:41.781Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Mike",
+      "lastName": "Schmidt",
+      "id": 1
+    },
+    {
+      "firstName": "Clara",
+      "lastName": "Reichert",
+      "id": 2
+    }
+  ]
+}
