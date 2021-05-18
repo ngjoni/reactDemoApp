@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Demo App in React und Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Das Projekt wurde mit [Create React App](https://github.com/facebook/create-react-app) erstellt.
+Es existieren zwei Seiten: Systemeinträge und eine Wettersuche
 
 ## Available Scripts
 
@@ -8,5 +9,5 @@ In the project directory, you can run:
 
 ### `npm run dev`
 
-Startet die App und der lokale json-server.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Startet die App und den lokalen JSON-Server (Port 5000).\
+Öffne [http://localhost:3000](http://localhost:3000) um es im Browser anzuzeigen.
