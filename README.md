@@ -3,9 +3,9 @@
 Das Projekt wurde mit [Create React App](https://github.com/facebook/create-react-app) erstellt.
 Es existieren zwei Seiten: Systemeinträge und eine Wettersuche
 
-## Available Scripts
+## Skript
 
-In the project directory, you can run:
+Development Skript starten:
 
 ### `npm run dev`
 
